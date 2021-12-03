@@ -254,9 +254,10 @@ section .priority .section {
 .priority-item {
   width: 270px;
 }
-/*.priority-icons {
-  padding: 25px 100px;
-}*/
+.priority-icons {
+  width: 70px;
+  height: 70px;
+}
 .priority-icon {
   display: flex;
   width: 270px;
